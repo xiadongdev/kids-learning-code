@@ -1,3 +1,5 @@
+</head>
+<body>
 <nav class="site-header sticky-top py-1">
   <div class="container d-flex flex-column flex-md-row justify-content-between">
     <a class="py-2" href="#">

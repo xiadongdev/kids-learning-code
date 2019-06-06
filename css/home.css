@@ -77,3 +77,8 @@ a.btn-outline-secondary:hover {
   border-color: #03775E;
   background-color: #03775E;
 }
+
+a.to-game-page{
+  color:#212529;
+  text-decoration: none;
+}

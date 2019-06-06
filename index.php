@@ -22,7 +22,7 @@
   ?>
     <div class="bg-light mr-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center overflow-hidden">
       <div class="my-3 p-3">
-        <h2 class="display-5"><a href="game.php?id=<?php echo $row['id'];?>"><?php echo $row['name'];?></a></h2>
+        <h2 class="display-5"><a class="to-game-page" href="games/game.php?id=<?php echo $row['id'];?>"><?php echo $row['name'];?></a></h2>
         <p class="lead"><?php echo $row['description'];?></p>
       </div>
       <div class="bg-light shadow-sm mx-auto" style="width: 80%; height: 300px; border-radius: 21px 21px 0 0;">

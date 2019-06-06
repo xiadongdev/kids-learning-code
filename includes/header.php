@@ -9,5 +9,3 @@
     <link href="css/bootstrap.css" rel="stylesheet">
     <!-- Custom styles -->
     <link href="css/home.css" rel="stylesheet" type="text/css">
-  </head>
-  <body>
