@@ -19,10 +19,12 @@
 
   <div id="game-canvas"></div>
 
+  <div id="thenode"></div>
+
   <div id="terminal"></div>
   <script>
     $('#terminal').terminal("service.py", {
-      greetings: "Start coding and having fun!"
+      greetings: "Let's start coding and have fun!"
    });
   </script>
   
